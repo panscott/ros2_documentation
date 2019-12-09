@@ -16,7 +16,7 @@ We provide ROS 2 binary packages for the following platforms:
 
 * Linux (Ubuntu Bionic(18.04))
 
-  * `Debian packages <Eloquent/Linux-Install-Debians>`
+  * `Debian packVSages <Eloquent/Linux-Install-Debians>`
   * `"fat" archive <Eloquent/Linux-Install-Binary>`
 
 * `OS X <Eloquent/OSX-Install-Binary>`
